@@ -1,0 +1,25 @@
+.heading{
+    width:100%;
+    margin:0;
+    background-color: paleturquoise;
+    font-size: 25px;
+
+}
+.note{
+    color:rgba(152, 154, 104, 0.856);
+    font-size: 18px;
+}
+body{
+    background-color: lightpink;
+}
+.copy_right_footer{
+    bottom: 0;
+    width:100%;
+    font-size: 25px;
+    position:fixed;
+}
+canvas{
+    background-color: aliceblue;
+    border-radius: 250px;
+    
+}
